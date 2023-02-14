@@ -1,4 +1,4 @@
-## Professional with knowledge in application development, combining React, Javascript, Bootstrap, HTML, CSS technologies, relational and non-relational databases. Similarly, I have knowledge of version control systems like Git. Currently I am expanding my knowledge in Typescript, Redux and responsive web design with Flexbox.
+## Professional with knowledge in application development, combining React, Javascript, Bootstrap, HTML, CSS technologies, relational and non-relational databases. Similarly, I have knowledge of version control systems like Git. 
 
 ## In addition, I am trained as a psychologist with 7 years of experience in social programs and coordinating interdisciplinary teams. 
 

@@ -1,5 +1,5 @@
 <h1 align="center">My name is Jorge Andrés Restrepo. I am a React Frontend Developer</h1>
-<h3 align="center">Professional with knowledge in application development, combining React, Javascript, Bootstrap, HTML, CSS technologies, relational and non-relational databases.In addition, I am trained as a psychologist with 7 years of experience in social programs and coordinating interdisciplinary teams.</h3>
+<h3 style="text-align: justify;">Professional with knowledge in application development, combining React, Javascript, Bootstrap, HTML, CSS technologies, relational and non-relational databases.In addition, I am trained as a psychologist with 7 years of experience in social programs and coordinating interdisciplinary teams.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
